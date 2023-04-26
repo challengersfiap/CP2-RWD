@@ -1,0 +1,19 @@
+.rodape{
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+}
+
+.rodape h2{
+    margin-bottom: 1%;
+}
+
+.rodape nav{
+    display: flex;
+
+}
+
+.rodape img{
+    max-width: 30px;
+    margin-right: 3px;
+}
