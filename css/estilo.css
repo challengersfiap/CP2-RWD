@@ -1,0 +1,32 @@
+@import url("./cabecalho.css");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+html {
+    font-size: 62.7%;
+}
+
+.rodape{
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+}
+
+.rodape h2{
+    margin-bottom: 1%;
+}
+
+.rodape nav{
+    display: flex;
+
+}
+
+.rodape img{
+    max-width: 30px;
+    margin-right: 3px;
+}
