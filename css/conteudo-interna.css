@@ -1,0 +1,20 @@
+.conteudo-interna {
+    height: 67vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conteudo-interna h2 {
+    font-size: 5rem;
+}
+
+.conteudo-interna p {
+    font-size: 2rem;
+}
+
+.conteudo-interna figure img{
+    width: 50%;
+}

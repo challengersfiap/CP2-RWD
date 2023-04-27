@@ -1,5 +1,7 @@
 @import url("./cabecalho.css");
 @import url("./rodape.css");
+@import url("./contetudo.css");
+@import url("./conteudo-interna.css");
 
 *{
     margin: 0;
