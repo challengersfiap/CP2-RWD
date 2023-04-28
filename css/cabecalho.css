@@ -7,7 +7,9 @@
     background-color: #000;
     padding: 2%;
 }
-
+.cabecalho img{
+    width: 5%;
+}
 .logo-placeholder {
     height: 70px;
     width: 70px;
