@@ -9,6 +9,9 @@
 }
 .cabecalho img{
     width: 5%;
+} 
+.cabecalho a{
+    margin-right: 10px;
 }
 .logo-placeholder {
     height: 70px;
@@ -22,8 +25,8 @@
 
 .menu ul{
     display: flex;
-    justify-content: space-evenly;
-}
+    text-decoration: none;
+    }
 
 .menu a {
     text-decoration: none;
