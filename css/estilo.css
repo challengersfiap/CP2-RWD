@@ -1,6 +1,6 @@
 @import url("./cabecalho.css");
 @import url("./rodape.css");
-@import url("./contetudo.css");
+@import url("./conteudo.css");
 @import url("./conteudo-interna.css");
 
 *{
@@ -14,3 +14,6 @@ html {
     font-size: 62.7%;
 }
 
+body {
+    background-color: #ddd;
+}
