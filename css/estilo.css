@@ -3,6 +3,7 @@
 @import url("./conteudo.css");
 @import url("./conteudo-interna.css");
 @import url("./break-point-1155.css");
+@import url("./break-point-600.css");
 @import url("./break-point-265.css");
 
 *{
@@ -17,6 +18,5 @@ html {
 }
 
 body {
-    background-color: #ddd;
+    background-color: white;
 }
-
